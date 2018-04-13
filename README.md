@@ -1,4 +1,4 @@
-# vue-resumer-1
+# vue-install
 
 > A Vue.js project
 
